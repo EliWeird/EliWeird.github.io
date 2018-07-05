@@ -1,2 +1,2 @@
 # EliWeird.github.io
-my website
+website
